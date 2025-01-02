@@ -59,3 +59,38 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
     - En orden
     - Postorden
 5. Balanceo de árboles
+
+### Contenido de la unidad 4
+
+1. Conceptos
+    - Definición
+    - Vértice
+    - Arista
+2. Clasificación de grafos
+    - Dirigidos,
+    - No dirigidos
+    - Densos
+    - Disperso
+    - Completo
+3. Representación con matriz de adyacencia
+4. Representación con Listas de adyacencia
+5. Esquemas de recorrido de grafo.
+    - Primera búsqueda en profundidad
+    - Primera búsqueda en anchura
+6. Algoritmo Mark-and-Sweep
+7. Algoritmo de Dijkstra
+
+### Contenido de la unidad 5
+
+1. Búsquedas
+    - Búsqueda lineal
+    - Búsqueda binaria
+    - Búsqueda interpolada
+    - Búsqueda hash
+2. Métodos de ordenamiento
+    - Inserción directa
+    - Shellsort
+    - Quicksort
+    - Radixsort
+    - Bucketsort
+    - Heapsort
