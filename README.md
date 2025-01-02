@@ -8,16 +8,16 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
 2. Características de los algoritmos
 3. Definición de Estructura de datos
 4. Clasificación de las estructuras de datos
-    _ Estructuras Estáticas
-    _ Estructuras Dinámicas
+    - Estructuras Estáticas
+    - Estructuras Dinámicas
 5. Análisis de eficiencia de algoritmos
-    _ Análisis de Algoritmos Empírico
-    _ Análisis de Algoritmos Matemático
-    _ Complejidad temporal y espacial.
-    _ Notaciones asintóticas
+    - Análisis de Algoritmos Empírico
+    - Análisis de Algoritmos Matemático
+    - Complejidad temporal y espacial.
+    - Notaciones asintóticas
 6. Recursividad
-    _ Reglas de recursión
-    _ Tipos de recursión
+    - Reglas de recursión
+    - Tipos de recursión
 
 ### Contenido de la unidad 2
 
