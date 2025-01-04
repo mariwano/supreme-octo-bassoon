@@ -1,4 +1,4 @@
-# supreme-octo-bassoon
+> # supreme-octo-bassoon
 Algoritmos y Estructuras de Datos
 Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estructuras de Datos** impartido en la **Universidad Autónoma de Baja California**.
 
