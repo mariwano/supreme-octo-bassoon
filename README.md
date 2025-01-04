@@ -19,9 +19,9 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
     - Reglas de recursión
     - Tipos de recursión
 
-> ### [Contenido de la unidad 2](https://github.com/mariwano/supreme-octo-bassoon/blob/main/unidad2/README.md)
+> ### [Contenido de la unidad 2](https://github.com/mariwano/supreme-octo-bassoon/tree/main/unidad2)
 
-1. [Estructura Pila Estáticas](https://github.com/mariwano/supreme-octo-bassoon/blob/main/unidad2/pila/README.md)
+1. [Estructura Pila Estáticas](https://github.com/mariwano/supreme-octo-bassoon/blob/main/unidad2/pila/)
     - Definición
     - Operaciones básicas
 2. Estructura Cola Estática
