@@ -1,8 +1,8 @@
-> # supreme-octo-bassoon
+# supreme-octo-bassoon
 Algoritmos y Estructuras de Datos
 Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estructuras de Datos** impartido en la **Universidad Autónoma de Baja California**.
 
-### Contenido de la unidad 1
+> ### Contenido de la unidad 1
 
 1. Definición de algoritmos
 2. Características de los algoritmos
@@ -19,7 +19,7 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
     - Reglas de recursión
     - Tipos de recursión
 
-### Contenido de la unidad 2
+> ### Contenido de la unidad 2
 
 1. Estructura Pila Estáticas
     - Definición
@@ -40,7 +40,7 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
     - Lista doblemente enlazada
         - Operaciones básicas
 
-### Contenido de la unidad 3
+> ### Contenido de la unidad 3
 
 1. Definición
     - Raíz
@@ -60,7 +60,7 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
     - Postorden
 5. Balanceo de árboles
 
-### Contenido de la unidad 4
+> ### Contenido de la unidad 4
 
 1. Conceptos
     - Definición
@@ -80,7 +80,7 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
 6. Algoritmo Mark-and-Sweep
 7. Algoritmo de Dijkstra
 
-### Contenido de la unidad 5
+> ### Contenido de la unidad 5
 
 1. Búsquedas
     - Búsqueda lineal
