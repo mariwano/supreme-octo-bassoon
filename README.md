@@ -21,7 +21,7 @@ Este repositorio es para estudiar el contenido del curso de **Algoritmos y Estru
 
 > ### [Contenido de la unidad 2](https://github.com/mariwano/supreme-octo-bassoon/blob/main/unidad2/README.md)
 
-1. [Estructura Pila Estáticas]()
+[1. Estructura Pila Estáticas](https://github.com/mariwano/supreme-octo-bassoon/blob/main/unidad2/pila/README.md)
     - Definición
     - Operaciones básicas
 2. Estructura Cola Estática
